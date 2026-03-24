@@ -1,0 +1,16 @@
+.betts-neihart-tool {
+    /* Base styling for Betts-Neihart tool */
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.betts-neihart-tool h1, .betts-neihart-tool h2 {
+    color: #007BFF;
+}
+
+.betts-neihart-tool p {
+    line-height: 1.5;
+}
